@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\IT\labs\laba5.1\Source.cpp(15,35): error C2296: *: недопустимо, левый операнд имеет тип "double (__cdecl *)(const double,const double,const double)"
+D:\IT\labs\laba5.1\Source.cpp(15,43): error C2296: *: недопустимо, левый операнд имеет тип "double (__cdecl *)(const double,const double,const double)"
+D:\IT\labs\laba5.1\Source.cpp(15,43): error C2297: *: недопустимо, правый оператор имеет тип "double (__cdecl *)(const double,const double,const double)"
+D:\IT\labs\laba5.1\Source.cpp(15,75): error C2296: *: недопустимо, левый операнд имеет тип "double (__cdecl *)(const double,const double,const double)"
